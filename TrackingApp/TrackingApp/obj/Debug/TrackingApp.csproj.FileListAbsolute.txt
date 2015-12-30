@@ -1,0 +1,6 @@
+C:\Users\waqarbsm\documents\visual studio 2013\Projects\TrackingApp\TrackingApp\bin\TrackingApp.dll.config
+C:\Users\waqarbsm\documents\visual studio 2013\Projects\TrackingApp\TrackingApp\bin\TrackingApp.dll
+C:\Users\waqarbsm\documents\visual studio 2013\Projects\TrackingApp\TrackingApp\bin\TrackingApp.pdb
+C:\Users\waqarbsm\documents\visual studio 2013\Projects\TrackingApp\TrackingApp\obj\Debug\TrackingApp.csprojResolveAssemblyReference.cache
+C:\Users\waqarbsm\documents\visual studio 2013\Projects\TrackingApp\TrackingApp\obj\Debug\TrackingApp.dll
+C:\Users\waqarbsm\documents\visual studio 2013\Projects\TrackingApp\TrackingApp\obj\Debug\TrackingApp.pdb
